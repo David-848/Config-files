@@ -2,4 +2,4 @@
 bunch of config files i use for my xfce desktop
 # ScreenShot
 
-![xfce-screenshot](https://drive.google.com/file/d/1ZhiJuUpHcvg5gQ10bDHFvDv0-QfHAzAr/view?usp=sharing)
+![xfce-screenshot](https://github.com/David-848/Config-files/blob/main/Screenshot_2021-01-28_19-33-45.png)
